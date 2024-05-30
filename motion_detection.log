@@ -1,0 +1,26 @@
+2024-05-28 13:13:44,271 - ERROR - Error loading YOLO: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:210: error: (-212:Parsing error) Failed to open NetParameter file: yolov4.cfg in function 'cv::dnn::dnn4_v20231225::readNetFromDarknet'
+
+2024-05-28 13:13:55,896 - ERROR - Error loading YOLO: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:210: error: (-212:Parsing error) Failed to open NetParameter file: yolov4.cfg in function 'cv::dnn::dnn4_v20231225::readNetFromDarknet'
+
+2024-05-28 13:16:10,091 - ERROR - Error loading YOLO: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:210: error: (-212:Parsing error) Failed to open NetParameter file: yolov4.cfg in function 'cv::dnn::dnn4_v20231225::readNetFromDarknet'
+
+2024-05-28 13:19:16,840 - ERROR - Error loading YOLO: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:210: error: (-212:Parsing error) Failed to open NetParameter file: yolov4.cfg in function 'cv::dnn::dnn4_v20231225::readNetFromDarknet'
+
+2024-05-28 13:21:46,078 - ERROR - Error loading YOLO: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\darknet\darknet_importer.cpp:210: error: (-212:Parsing error) Failed to open NetParameter file: D:\Final_Year_Project\Final_Year_Projects\pythonProject\yolov4.cfg in function 'cv::dnn::dnn4_v20231225::readNetFromDarknet'
+
+2024-05-28 13:26:29,016 - INFO - Authentication successful
+2024-05-28 14:48:02,987 - INFO - Authentication successful
+2024-05-28 14:51:38,717 - INFO - Authentication successful
+2024-05-28 14:55:09,044 - INFO - Authentication successful
+2024-05-28 17:53:05,875 - INFO - Authentication successful
+2024-05-28 18:07:00,101 - WARNING - Authentication failed
+2024-05-28 18:07:08,021 - INFO - Authentication successful
+2024-05-29 09:21:19,481 - INFO - Authentication successful
+2024-05-29 09:34:55,535 - INFO - Authentication successful
+2024-05-29 12:06:32,620 - INFO - Authentication successful
+2024-05-29 12:07:07,160 - WARNING - Authentication failed
+2024-05-29 12:07:08,125 - WARNING - Authentication failed
+2024-05-29 12:07:20,305 - INFO - Authentication successful
+2024-05-29 12:44:15,100 - INFO - Authentication successful
+2024-05-29 13:00:04,405 - INFO - Authentication successful
+2024-05-29 13:53:00,315 - INFO - Authentication successful
